@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-//1111
+
 class Person2 implements Cloneable {
   //Lower-level object
   private Car car;
