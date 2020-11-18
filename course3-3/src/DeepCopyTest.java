@@ -41,7 +41,7 @@ class Car2 {
   }
 }
 public class DeepCopyTest {
-//你好
+//你好 + hello
   public static void main(String[] args) {
     //Original Object
     Person p = new Person("Person-A","Civic");
